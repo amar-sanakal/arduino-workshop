@@ -1,4 +1,4 @@
 arduino-workshop
 ================
 
-London Perl Worksop - Perl &amp; Arduino
+London Perl Worksop 2014 - Perl &amp; Arduino
